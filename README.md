@@ -1,3 +1,5 @@
+**I am a 3rd-year Electronics and Communication Engineering student at Yıldız Technical University, living in Istanbul, Turkey. I have a passion for software development and love being involved in various projects.**
+
 - 👋 Hi, I’m Şemsettin Solak
 - 👀 I’m interested in Artifical Intelligence
 - 🌱 I’m currently learning advanced AI projects
